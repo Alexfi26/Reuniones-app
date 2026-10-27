@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.sqlite
+*.sqlite-*
+data/
+.env
+helper/.build/
+helper/.swiftpm/

@@ -1,0 +1,10 @@
+{
+  "google": {
+    "clientId": "TU_CLIENT_ID.apps.googleusercontent.com"
+  },
+  "microsoft": {
+    "clientId": "TU_APPLICATION_CLIENT_ID",
+    "tenant": "common"
+  },
+  "helperPath": null
+}
